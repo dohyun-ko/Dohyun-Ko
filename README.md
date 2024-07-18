@@ -1,7 +1,7 @@
 # Dohyun Ko | 고도현
 
 ## 🧶 Introduction
-Hi there! I'm Dohyun Ko, a third-year frontend developer passionate about writing maintainable code and taking on new challenges. With experience in frontend, backend, infrastructure, and AI, I've honed my skills at a startup and during an internship at an AI research lab. Currently, I'm spending the summer session at UC Berkeley, continuously striving to embrace various challenges and take the road not taken.
+Welcome in! I'm Dohyun Ko, a third-year frontend developer passionate about writing maintainable code and taking on new challenges. With experience in frontend, backend, infrastructure, and AI, I've honed my skills at a startup and during an internship at an AI research lab. Currently, I'm spending the summer session at UC Berkeley, continuously striving to embrace various challenges and take the road not taken.
 
 For more information, refer to my website: [dohyun.is-a.dev](https://dohyun.is-a.dev)
 
@@ -10,7 +10,7 @@ Feel free to reach out to me if you want to collaborate on a project or just cha
 ### 🌱 Current Interests
 Here are some topics and technologies I'm currently interested in:
 - Making some thin-client service with 🧪 Elixir
-- Open world or simulation game development
+- Open-world or simulation game development
 
 ## 🌟 Skills
 - **React**: ★★★★★
