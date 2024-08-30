@@ -1,11 +1,11 @@
 # Dohyun Ko | 고도현
 
 ## 🧶 Introduction
-Welcome in! I'm Dohyun Ko, a third-year frontend developer passionate about writing maintainable code and taking on new challenges. With experience in frontend, backend, infrastructure, and AI, I've honed my skills at a startup and during an internship at an AI research lab. Currently, I'm spending the summer session at UC Berkeley, continuously striving to embrace various challenges and take the road not taken.
+Welcome in! I'm Dohyun Ko. I worked at a startup for two years, taking the lead on various tasks across front-end, back-end, app development, automation, and machine learning. Afterward, I worked in an AI research lab where I developed data collection tools and wrote a paper on UX. Since I have often worked in environments with a shortage of developers, I always prioritize productivity and ease of maintenance. I aim to enhance productivity by creating monorepos and libraries, and I strive to write code that is easy for others to understand using atomic patterns and Storybook.
 
 For more information, refer to my website: [dohyun.is-a.dev](https://dohyun.is-a.dev)
 
-Feel free to reach out to me if you want to collaborate on a project or just chat about technology and development!
+Feel free to contact me if you want to collaborate on a project or chat about technology and development!
 
 ### 🌱 Current Interests
 Here are some topics and technologies I'm currently interested in:
