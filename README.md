@@ -1,7 +1,7 @@
 # Dohyun Ko | 고도현
 
 ## 🧶 Introduction
-Welcome in! I'm Dohyun Ko. I worked at a startup for two years, taking the lead on various tasks across front-end, back-end, app development, automation, and machine learning. Afterward, I worked in an AI research lab where I developed data collection tools and wrote a paper on UX. Since I have often worked in environments with a shortage of developers, I always prioritize productivity and ease of maintenance. I aim to enhance productivity by creating monorepos and libraries, and I strive to write code that is easy for others to understand using atomic patterns and Storybook.
+Welcome in! I'm Dohyun Ko. I worked at a startup for two years, taking various tasks across front-end, back-end, app development, automation, and machine learning. Afterward, I worked in an AI research lab where I developed data collection tools and wrote a paper on UX. Now I'm working at [@channel.io](https://github.io/channel-io)
 
 For more information, refer to my website: [dohyun.is-a.dev](https://dohyun.is-a.dev)
 
@@ -13,19 +13,8 @@ Here are some topics and technologies I'm currently interested in:
 - Open-world or simulation game development
 
 ## 🌟 Skills
-- **React**: ★★★★★
-- **TypeScript**: ★★★★☆
-- **JavaScript**: ★★★★☆
-- **HTML/CSS**: ★★★★☆
-- **Python**: ★★★☆☆
-- **NestJS**: ★★☆☆☆
-- **FastAPI**: ★★☆☆☆
-- **Flutter**: ★★☆☆☆
-- **C++**: ★★☆☆☆
-- **Kotlin**: ★☆☆☆☆
-- **Docker**: ★☆☆☆☆
-- **Rust**: ★☆☆☆☆
-- **Assembly**: ★☆☆☆☆
+- **React** / **TypeScript** / **JavaScript** / **HTML&CSS**
+- **Python** / **NestJS** / **FastAPI** / **Flutter** / **C++**
 
 ## 🎓 Education & Experience
 - Check my [website](https://dohyun.is-a.dev)!
