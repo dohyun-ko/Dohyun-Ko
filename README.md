@@ -1,7 +1,7 @@
 # Dohyun Ko | 고도현
 
 ## 🧶 Introduction
-Welcome in! I'm Dohyun Ko. I worked at a startup for two years, taking various tasks across front-end, back-end, app development, automation, and machine learning. Afterward, I worked in an AI research lab where I developed data collection tools and wrote a paper on UX. Now I'm working at [@channel.io](https://github.io/channel-io)
+Welcome in! I'm Dohyun Ko. I worked at a startup for two years, taking various tasks across front-end, back-end, app development, automation, and machine learning. Afterward, I worked in an AI research lab where I developed data collection tools and wrote a paper on UX. Now I'm working at [@channel.io](https://github.com/channel-io)
 
 For more information, refer to my website: [dohyun.is-a.dev](https://dohyun.is-a.dev)
 
