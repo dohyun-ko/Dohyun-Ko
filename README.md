@@ -34,3 +34,6 @@ Here are some topics and technologies I'm currently interested in:
   - Tech Stack: C++, WebAssembly, Emscripten
 - **[Speaking Melona](https://melona.chat)** ([FE](https://github.com/Shimsuyeon/speaking-melona-fe) [BE](https://github.com/Shimsuyeon/speaking-melona-be)): A service that assigns personas to convenience store foods and generates conversations between them when a barcode is scanned.
   - Tech Stack: React, TypeScript, FastAPI, PostgreSQL
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
