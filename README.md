@@ -36,4 +36,13 @@ Here are some topics and technologies I'm currently interested in:
   - Tech Stack: React, TypeScript, FastAPI, PostgreSQL
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   26 hrs 57 mins  ████████████████████████▓   98.99 %
+Markdown     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+```
+
 <!--END_SECTION:waka-->
