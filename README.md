@@ -38,11 +38,11 @@ Here are some topics and technologies I'm currently interested in:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   26 hrs 57 mins  ████████████████████████▓   98.99 %
-Markdown     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-JavaScript   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+TypeScript             2,358 hrs 31 mins█████████████████░░░░░░░░   67.75 %
+Python                 289 hrs 57 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+JavaScript             120 hrs 9 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Dart                   113 hrs 37 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+C++                    99 hrs 58 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
