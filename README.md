@@ -38,10 +38,10 @@ Here are some topics and technologies I'm currently interested in:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript             2,759 hrs 23 mins█████████████████▓░░░░░░░   70.39 %
-Python                 292 hrs 26 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-JavaScript             121 hrs 30 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
-Dart                   113 hrs 37 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+TypeScript             2,767 hrs 23 mins█████████████████▓░░░░░░░   70.45 %
+Python                 292 hrs 26 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+JavaScript             121 hrs 30 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+Dart                   113 hrs 37 mins ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
 C++                    99 hrs 58 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
